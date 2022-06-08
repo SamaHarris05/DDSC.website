@@ -1,2 +1,2 @@
 # DDSC.websitehomepage
-# This proejct was completed using HTML, CSS and JavaScript. 
+# This project was completed using HTML, CSS and JavaScript. 
