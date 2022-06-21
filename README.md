@@ -1,2 +1,3 @@
 # DDSC.websitehomepage
-# This project was completed using HTML, CSS and JavaScript. 
+Dandenong Dolphins Swimming Club [DDSC] -
+HTML, CSS and JavaScript
